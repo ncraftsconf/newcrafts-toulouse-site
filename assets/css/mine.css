@@ -1,0 +1,50 @@
+.subtitle {
+    padding: 0 100px;
+}
+
+.hero-background {
+    background-image: url("../img/backgrounds/paris.jpg");
+    background-position: 0 top;
+}
+
+.navigation-header {
+    padding: 5px 0 0;
+}
+
+.bg4 {
+    background-image: url("../img/backgrounds/paris.jpg");
+}
+
+.speaker .photo-wrapper img {
+    height: 200px;
+}
+
+p {
+    line-height: 25px;
+}
+
+.lang .fa {
+    margin-right: 8px;
+    vertical-align: middle;
+    color: #babfcc;
+}
+
+.sponsor-platinium {
+    max-width: 240px;
+}
+.sponsor-gold {
+    max-width: 240px; max-height: 80px;
+}
+.sponsor-adjust-1 {
+    max-height: 40px;
+}
+.sponsor-friendly {
+    max-width: 200px; max-height: 45px;
+}
+
+.partners {
+    max-width: 80px;
+}
+@media screen and (min-width: 0px) and (max-width: 1024px) {
+  .mobile-hide{ display: none; }
+}
