@@ -12,11 +12,11 @@
 }
 
 .bg4 {
-    background-image: url("../img/backgrounds/toulouse11.jpg");
+    background-image: url("../img/backgrounds/toulouse2.jpg");
 }
 
 .bg3 {
-    background-image: url("../img/backgrounds/toulouse11.jpg");
+    background-image: url("../img/backgrounds/toulouse2.jpg");
 }
 
 .speaker .photo-wrapper img {
@@ -59,7 +59,9 @@ p {
     margin-top: -160px;
 }
 
+
 /* =========== WORKSHOP ========================= */
+
 .workshop {
     font-family: 'Raleway', sans-serif;
     padding: 60px 0;
@@ -73,7 +75,6 @@ p {
     overflow: auto;
     top: 10px;
     height: 450px;
-
     padding: 0 10px 0 10px;
 }
 
@@ -84,10 +85,7 @@ p {
     bottom: 150px;
     left: 0;
     right: 0;
-    background: linear-gradient(to bottom,
-        rgba(255, 255, 255, 0),
-        rgba(255, 255, 255, 0) 80%,
-        rgba(255, 255, 255, 1) 100%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0) 80%, rgba(255, 255, 255, 1) 100%);
     z-index: 1;
     border: 0px #0a5175 dashed;
 }
@@ -123,7 +121,6 @@ p {
     margin: 10px;
     border: 3px #333 solid;
 }
-
 
 @media screen and (min-width: 0px) and (max-width: 1024px) {
     .mobile-hide {
