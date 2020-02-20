@@ -3,7 +3,7 @@
 }
 
 .hero-background {
-    background-image: url("../img/backgrounds/toulouse11.jpg");
+    background-image: url("../img/backgrounds/Toulouse-garonne.webp");
     background-position: 0 top;
 }
 
@@ -12,7 +12,7 @@
 }
 
 .bg4 {
-    background-image: url("../img/backgrounds/toulouse2.jpg");
+    background-image: url("../img/logos/twitter\ bandeau\ v1.png");
 }
 
 .bg3 {
@@ -57,6 +57,13 @@ p {
 
 .cancel-padding {
     margin-top: -160px;
+}
+
+.centered-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 
