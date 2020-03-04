@@ -5,7 +5,6 @@
 .hero-background {
     background-image: url("../img/backgrounds/Toulouse-garonne_resultat.jpg");
     background-position: 0 top;
-    
 }
 
 .navigation-header {
@@ -32,6 +31,12 @@ p {
     margin-right: 8px;
     vertical-align: middle;
     color: #babfcc;
+}
+
+.medium-icon {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    font-size: 25px;
 }
 
 .sponsor-platinium {
